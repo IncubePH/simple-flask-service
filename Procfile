@@ -1,0 +1,1 @@
+web: gunicorn sample_flask_service:app
